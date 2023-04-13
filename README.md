@@ -1,6 +1,9 @@
-# URL-Shortener
+## URL Shortening APIs
 
 
-<a href="https://cleanuri.com/docs" target="_blank">cleanuri.com API Documentation</a>
-<a href="https://is.gd/apishorteningreference.php" target="_blank">is.gd URL Shortening API Reference</a>
-<a href="https://is.gd/apilookupreference.php" target="_blank">is.gd URL Lookup API Reference</a>
+[cleanuri.com API Documentation](https://cleanuri.com/docs)
+[is.gd URL Shortening API Reference](https://is.gd/apishorteningreference.php)
+
+[is.gd URL Lookup API Reference](https://is.gd/apilookupreference.php)
+
+Make sure to read the documentation carefully and follow the guidelines provided by the API provider.
