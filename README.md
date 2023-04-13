@@ -2,6 +2,7 @@
 
 
 [cleanuri.com API Documentation](https://cleanuri.com/docs)
+
 [is.gd URL Shortening API Reference](https://is.gd/apishorteningreference.php)
 
 [is.gd URL Lookup API Reference](https://is.gd/apilookupreference.php)
